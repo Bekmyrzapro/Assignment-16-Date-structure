@@ -3,6 +3,9 @@
 ### Bekmyrza Abdykadyrov COM-20.
 ![image](https://github.com/Bekmyrzapro/Assignment-16-Date-structure/assets/74038682/2e632230-c07f-43db-ab19-54b4c80d7d8c)
 
+![image](https://github.com/Bekmyrzapro/Assignment-16-Date-structure/assets/74038682/b18cafa3-3543-40ef-a98d-f2afb6124619)
+
+
 
 Absolutely! So, imagine we're building a little tool to handle dates in C++. We start by defining a Date structure. This structure holds three important pieces of information: the day, the month, and the year.
 

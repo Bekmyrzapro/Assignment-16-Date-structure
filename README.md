@@ -3,7 +3,14 @@
 ### Bekmyrza Abdykadyrov COM-20.
 ![image](https://github.com/Bekmyrzapro/Assignment-16-Date-structure/assets/74038682/2e632230-c07f-43db-ab19-54b4c80d7d8c)
 
+![image](https://github.com/Bekmyrzapro/Assignment-16-Date-structure/assets/74038682/4d3ae207-554c-4dee-ab9f-40284e9b5f72)
+
+
+
+\\
+
 ![image](https://github.com/Bekmyrzapro/Assignment-16-Date-structure/assets/74038682/b18cafa3-3543-40ef-a98d-f2afb6124619)
+![image](https://github.com/Bekmyrzapro/Assignment-16-Date-structure/assets/74038682/26a8a55e-4bf1-41c1-9677-b9e6d26248a9)
 
 
 

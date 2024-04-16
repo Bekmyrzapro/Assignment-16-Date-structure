@@ -10,7 +10,7 @@
 
 
 
-Absolutely! So, imagine we're building a little tool to handle dates in C++. We start by defining a Date structure. This structure holds three important pieces of information: the day, the month, and the year.
+ We start by defining a Date structure. This structure holds three important pieces of information: the day, the month, and the year.
 
 Now, we need to make sure that any date we work with is valid. We create a function called isValidDate() to check just that. It looks at the day, month, and year to ensure they're within reasonable ranges.
 
